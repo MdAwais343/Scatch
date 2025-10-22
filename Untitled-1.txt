@@ -1,0 +1,8 @@
+signup -> login
+/shop -> shop
+/user/cart -> cart
+/admin -> admin panel
+/owner/products -> show all products
+/owner/admin -> show all admin panel to create products
+
+joybased = package = its a check to check if any field is missing
